@@ -19,7 +19,7 @@ javac StudentDatabaseApp.java
 java StudentDatabaseApp
 
 
-Functionality
+#**Functionality**
 
 Student Class
 The Student class encapsulates the basic information and actions related to a student:
